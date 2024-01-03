@@ -1,6 +1,6 @@
 print_string "Player 1, enter your number: "
 
-let num = read_int()
+let num = read_int ()
 
 let rec high_low n m =
   let _ = print_string "Player 2, enter your guess: " in
